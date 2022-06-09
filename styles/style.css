@@ -146,7 +146,7 @@
   font-weight: normal;
 }
 .feynman {
-  overflow: hidden; 
+  overflow: hidden;
   min-height: 890px;
   margin: 0;
   padding: 0;
@@ -193,7 +193,7 @@
 .kaufman {
   background-color: #1f1f1f;
   color: white;
-  overflow: hidden; 
+  overflow: hidden;
   margin: 0;
   padding: 0;
   display: flex;
