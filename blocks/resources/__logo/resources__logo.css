@@ -3,6 +3,3 @@
     height: 38px;
     transition: transform 0.7s ease-in-out;
 }
-.resources__logo:hover {
-    transform: scale(1.3);
-}

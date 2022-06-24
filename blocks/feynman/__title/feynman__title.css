@@ -1,12 +1,9 @@
-.feynman__title, .feynman__subtitle {
+  .feynman__title {
     display: block;
     text-align: center;
-    position: relative;
     z-index: 1;
-  }
-  .feynman__title {
     width: 648px;
-    margin: 100px auto 0 auto;
+    margin: 0 auto;
     padding: 0;
     line-height: 1.15;
     font-size: 120px;

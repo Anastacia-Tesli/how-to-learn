@@ -1,5 +1,6 @@
 .khan__quote {
-    width: 790px;
+    max-width: 790px;
+    width: 100%;
     margin: 50px auto 36px 0;
     padding: 0;
     line-height: 34px;
